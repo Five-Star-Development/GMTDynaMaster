@@ -38,7 +38,6 @@ class GmtRenderer(
     clearWithBackgroundTintBeforeRenderingHighlightLayer = false
 ) {
 
-    //wtf is this?
     class Assets : SharedAssets {
         override fun onDestroy() {}
     }
