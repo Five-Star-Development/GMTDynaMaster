@@ -2,6 +2,9 @@
 
 An analog Wear OS watch face with a 24-hour GMT hand and a live, location-based sunrise/sunset bezel.
 
+<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/8356fa80-3ecd-4f06-87c9-44219d01709d" />
+
+
 ## What makes it special
 
 - **24h GMT hand** — on top of the regular hour/minute/second hands, a dedicated GMT arrow makes one full rotation every 24 hours against a 24h bezel scale (1–23 plus a triangle at 24), just like a classic pilot/GMT watch.
