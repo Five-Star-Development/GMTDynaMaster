@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated: static preview of GmtRenderer (day 05:30-20:30, time 10:10:37). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <path
+        android:fillColor="#000000"
+        android:pathData="M0,100 a100,100 0 1,0 200,0 a100,100 0 1,0 -200,0 Z" />
+    <path
+        android:strokeColor="#1A3A8C"
+        android:strokeWidth="18"
+        android:strokeLineCap="butt"
+        android:strokeLineJoin="round"
+        android:pathData="M9,100 a91,91 0 1,0 182,0 a91,91 0 1,0 -182,0 Z" />
+    <path
+        android:strokeColor="#B3122E"
+        android:strokeWidth="18"
+        android:strokeLineCap="butt"
+        android:strokeLineJoin="round"
+        android:pathData="M190.22,88.12 A91,91 0 1,1 27.8,44.6" />
+    <group android:pivotX="100" android:pivotY="100" android:rotation="15">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M98.5,9 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="30">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M97.88,7.18 C98.16,5.2 101.84,4.74 102.02,7.33 C102.12,9 99.77,10.37 97.79,12.8 L102.3,12.8" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="45">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M98.5,9 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="60">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M101.2,12.8 L101.2,5.2 L97.7,10.37 L102.3,10.37" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="75">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M98.5,9 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="90">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M101.66,5.66 C99.54,4.9 97.7,7.33 97.7,10.06 C97.7,12.04 98.62,12.8 100,12.8 C101.38,12.8 102.3,11.74 102.3,10.22 C102.3,8.7 101.38,7.94 100,7.94 C98.85,7.94 97.93,9 97.79,9.76" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="105">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M98.5,9 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="120">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M100,5.2 C98.62,5.2 98.07,6.11 98.07,7.1 C98.07,8.24 98.85,8.77 100,8.77 C101.15,8.77 101.93,8.24 101.93,7.1 C101.93,6.11 101.38,5.2 100,5.2 ZM100,8.77 C98.62,8.77 97.7,9.61 97.7,10.82 C97.7,12.04 98.62,12.8 100,12.8 C101.38,12.8 102.3,12.04 102.3,10.82 C102.3,9.61 101.38,8.77 100,8.77 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="135">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M98.5,9 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="150">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M95.21,6.87 L97.51,5.2 L97.51,12.8 M102.15,5.2 C104.22,5.2 104.45,7.48 104.45,9 C104.45,10.52 104.22,12.8 102.15,12.8 C100.08,12.8 99.85,10.52 99.85,9 C99.85,7.48 100.08,5.2 102.15,5.2 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="165">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M98.5,9 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="180">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M95.21,6.87 L97.51,5.2 L97.51,12.8 M100.03,7.18 C100.31,5.2 103.99,4.74 104.17,7.33 C104.27,9 101.92,10.37 99.94,12.8 L104.45,12.8" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="195">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M98.5,9 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="210">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M95.21,6.87 L97.51,5.2 L97.51,12.8 M103.35,12.8 L103.35,5.2 L99.85,10.37 L104.45,10.37" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="225">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M98.5,9 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="240">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M95.21,6.87 L97.51,5.2 L97.51,12.8 M103.81,5.66 C101.69,4.9 99.85,7.33 99.85,10.06 C99.85,12.04 100.77,12.8 102.15,12.8 C103.53,12.8 104.45,11.74 104.45,10.22 C104.45,8.7 103.53,7.94 102.15,7.94 C101,7.94 100.08,9 99.94,9.76" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="255">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M98.5,9 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="270">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M95.21,6.87 L97.51,5.2 L97.51,12.8 M102.15,5.2 C100.77,5.2 100.22,6.11 100.22,7.1 C100.22,8.24 101,8.77 102.15,8.77 C103.3,8.77 104.08,8.24 104.08,7.1 C104.08,6.11 103.53,5.2 102.15,5.2 ZM102.15,8.77 C100.77,8.77 99.85,9.61 99.85,10.82 C99.85,12.04 100.77,12.8 102.15,12.8 C103.53,12.8 104.45,12.04 104.45,10.82 C104.45,9.61 103.53,8.77 102.15,8.77 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="285">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M98.5,9 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="300">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M94.93,7.18 C95.21,5.2 98.89,4.74 99.07,7.33 C99.17,9 96.82,10.37 94.84,12.8 L99.35,12.8 M102.95,5.2 C105.02,5.2 105.25,7.48 105.25,9 C105.25,10.52 105.02,12.8 102.95,12.8 C100.88,12.8 100.65,10.52 100.65,9 C100.65,7.48 100.88,5.2 102.95,5.2 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="315">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M98.5,9 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="330">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M94.93,7.18 C95.21,5.2 98.89,4.74 99.07,7.33 C99.17,9 96.82,10.37 94.84,12.8 L99.35,12.8 M100.83,7.18 C101.11,5.2 104.79,4.74 104.97,7.33 C105.07,9 102.72,10.37 100.74,12.8 L105.25,12.8" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="345">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M98.5,9 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+    </group>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M93.5,3.5 L106.5,3.5 L100,13.25 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M94.5,24.5 L105.5,24.5 L100,34.4 Z" />
+    <group android:pivotX="100" android:pivotY="100" android:rotation="30">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M96,30 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="60">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M96,30 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="90">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M100,25 L100,35" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="120">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M96,30 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="150">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M96,30 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="180">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M100,25 L100,35" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="210">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M96,30 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="240">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M96,30 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="270">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M100,25 L100,35" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="300">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M96,30 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="330">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M96,30 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="152.65">
+        <path
+            android:strokeColor="#B3122E"
+            android:strokeWidth="1.75"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M100,100 L100,30" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="152.65">
+        <path
+            android:fillColor="#B3122E"
+            android:pathData="M100,22.16 L95.1,30 L104.9,30 Z" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="305.31">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M100,100 L100,55" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="63.7">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M100,100 L100,28" />
+    </group>
+    <group android:pivotX="100" android:pivotY="100" android:rotation="222">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M100,100 L100,22" />
+    </group>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M96,100 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+</vector>
